@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, My name is Carlos Ortiz, I'm 223 years old, Vue js and Node.js Frontend Developer. I from Colombia
+Hello, My name is Carlos Ortiz, I'm 23 years old, Vue js and Node.js Frontend Developer. I from Colombia
 
 
 ## 🌐 Socials:
