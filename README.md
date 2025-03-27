@@ -1,5 +1,16 @@
 # 💫 About Me:
-#<br>👋 Hola! Soy Carlos Ortiz, un desarrollador Front-end de 23 años originario de Colombia, con conocimientos en Vue.js y Node.js.<br><br>🚀 Apasionado por crear experiencias web modernas e intuitivas que combinen funcionalidad y diseño atractivo.<br><br>💡 Actualmente enfocado en expandir mis habilidades en el ecosistema JavaScript y explorar nuevas tecnologías para el desarrollo web.<br><br>🌱 Constantemente aprendiendo y buscando colaborar en proyectos desafiantes que me permitan crecer profesionalmente.<br><br>⚡ Me encanta transformar ideas en código limpio y soluciones eficientes para problemas reales.<br><br>🔍 Siempre en búsqueda de nuevas oportunidades para contribuir a proyectos innovadores y conectar con otros desarrolladores.
+
+### 👨‍💻 Perfil
+Front-end Developer colombiano de 23 años, especializado en Vue.js y Node.js, apasionado por la creación de interfaces web modernas y funcionales.
+
+### 🛠️ Enfoque
+Desarrollo de experiencias web intuitivas que combinan código limpio con diseño atractivo. Transformo ideas en soluciones eficientes para problemas reales.
+
+### 🌱 Crecimiento
+Amplío constantemente mis conocimientos en el ecosistema JavaScript, buscando proyectos desafiantes y nuevas tecnologías que impulsen mi desarrollo profesional.
+
+### 🔍 Objetivos
+Contribuir a proyectos innovadores y establecer conexiones con otros desarrolladores, siempre en búsqueda de oportunidades para crecer en la industria.
 
 
 ## 🌐 Socials:
