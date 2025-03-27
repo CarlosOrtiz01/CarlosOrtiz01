@@ -1,16 +1,20 @@
+<h1 align="center"><b>Hi , I'm Carlos Ortiz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+World!+;Front-End+Developer+;Turning+Ideas+into+Digital+Experiences;Always+Learning%2C+Always+Growing;Building+Tomorrow's+Web+Today"></a>
+</p>
+
 # 💫 About Me:
+### 👨‍💻 Profile
+Hello! I'm Carlos Ortiz, a 23-year-old Front-end Developer specialized in Vue.js and Node.js from Colombia. Passionate about creating innovative digital experiences in both web and mobile development.
 
-### 👨‍💻 Perfil
-Front-end Developer colombiano de 23 años, especializado en Vue.js y Node.js, apasionado por la creación de interfaces web modernas y funcionales.
+### 🛠️ Approach
+I craft intuitive interfaces combining clean code with attractive design. My focus is transforming complex ideas into efficient solutions that solve real-world problems.
 
-### 🛠️ Enfoque
-Desarrollo de experiencias web intuitivas que combinan código limpio con diseño atractivo. Transformo ideas en soluciones eficientes para problemas reales.
+### 🌱 Growth
+Constantly exploring new technologies in the JavaScript ecosystem. I thrive on challenging projects that push my skills forward and open doors to emerging development trends.
 
-### 🌱 Crecimiento
-Amplío constantemente mis conocimientos en el ecosistema JavaScript, buscando proyectos desafiantes y nuevas tecnologías que impulsen mi desarrollo profesional.
-
-### 🔍 Objetivos
-Contribuir a proyectos innovadores y establecer conexiones con otros desarrolladores, siempre en búsqueda de oportunidades para crecer en la industria.
+### 🔍 Goals
+Contributing to innovative projects while building meaningful connections with fellow developers. Always seeking opportunities to make an impact in this dynamic industry.
 
 
 ## 🌐 Socials:
