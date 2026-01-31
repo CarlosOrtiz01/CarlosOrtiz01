@@ -82,7 +82,7 @@ I enjoy working on products where **clean architecture, thoughtful UX, and real 
 
 ---
 
-## 📊 GitHub Stats
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=CarlosOrtiz01&show_icons=true&theme=dark&hide_border=true" />
 <img src="https://nirzak-streak-stats.vercel.app/?user=CarlosOrtiz01&theme=dark&hide_border=true" />
